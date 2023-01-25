@@ -1,31 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-This repository has been archived by the owner before Nov 9, 2022. It is now read-only.
-B3zaleel
-/
-alx-backend-javascript
-Public archive
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-backend-javascript/0x02-ES6_classes/2-hbtn_course.js /
-@B3zaleel
-B3zaleel ✅ Complete task 2
-Latest commit 77fe712 on Apr 7, 2022
- History
- 1 contributor
-71 lines (65 sloc)  1.5 KB
-
 /**
  * Represents a Holberton Course.
  */
@@ -97,18 +69,3 @@ export default class HolbertonCourse {
     this._students = value;
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-alx-backend-javascript/2-hbtn_course.js at main · B3zaleel/alx-backend-javascript
